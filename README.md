@@ -16,24 +16,54 @@ The Skills System allows your agent to adopt specific personas and methodologies
 - **`brainstorming`**: Facilitates collaborative design sessions. Use this to refine ideas into specifications before implementation.
 - **`creating-skills`** (Gemini Skill Creator): The meta-skill for building new skills. Follows the standardized structure and best practices for extending this system.
 
+### 🏗️ Architecture & Backend
+
+- **`backend-architect`**: Design scalable APIs, microservices, and distributed systems.
+- **`architect-review`**: Review system designs and code for architectural integrity, patterns, and scalability.
+
 ### 🎨 Design & Frontend
 
+- **`frontend-developer`**: React & Next.js expert. Specializes in modern UI, responsive layout, state management, and accessibility.
 - **`brand-identity`**: The single source of truth for your project's design. Contains:
     - **Design Tokens:** Colors, typography, spacing.
     - **Tech Stack:** Preferred libraries and coding standards.
     - **Voice & Tone:** Copywriting guidelines.
 
-### 🐛 Quality & Debugging
+### 🛠️ Maintenance & Modernization
+
+- **`code-refactoring`**: Refactor legacy codebases, migrate frameworks, and reduce technical debt.
+
+### 🛡️ Quality Assurance & Security
 
 - **`debugging-strategies`**: A systematic approach to solving bugs. Includes:
     - Scientific method application (Hypothesize -> Experiment -> Analyze).
     - Language-specific debugging tools (JS/TS, Python, Go).
     - Advanced techniques like binary search and differential debugging.
 - **`error-handling-patterns`**: Best practices for writing resilient code. Covers exception handling, Result types, and error propagation patterns.
-- **`code-reviewer`**: Acts as a Senior Code Reviewer. Use this to validate completed work against original plans and coding standards.
+- **`code-reviewer`**: Review code for best practices, security, and maintainability.
+- **`backend-security-coder`**: Implement secure coding practices for backend systems.
+- **`test-automator`**: Master AI-powered test automation, self-healing tests, and comprehensive quality engineering.
+- **`security-auditor`**: Expert in DevSecOps, compliance, and cybersecurity auditing.
+
+### ⚡ Performancetions & Reliability
+
+- **`observability-engineer`**: Expert in production monitoring, logging, tracing, and incident response metrics (SLIs/SLOs).
+
+### 📣 Communication & Strategy
+
+- **`data-storytelling`**: Transform data into compelling narratives for stakeholders, reports, and presentations.
+- **`kpi-dashboard-design`**: Design effective KPI dashboards with metrics selection, visualization best practices, and real-time monitoring patterns.
+- **`business-analyst`**: Master modern business analysis with AI-powered analytics, predictive models, and strategic recommendations.
+- **`docs-architect`**: Create comprehensive technical documentation, architecture guides, and technical manuals from codebases.
+- **`tutorial-engineer`**: Create step-by-step tutorials and educational content to transform complex concepts into progressive learning experiences.
+
+### 🧠 AI & Data Engineering
+
+- **`context-manager`**: AI context engineering specialist. Masters vector DBs, RAG, knowledge graphs, and multi-agent context orchestration.
 
 ### ⚡ Performance
 
+- **`performance-engineer`**: Expert in modern application optimization, observability, scale, and performance testing.
 - **`sql-optimization-patterns`**: Master SQL performance. Use this for:
     - Analyzing `EXPLAIN` plans.
     - Designing efficient indexes.
